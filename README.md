@@ -1,4 +1,4 @@
-# CMSC423 (Bioinformatic Algorithms, Databases, and Tools) Project 1 (Variant Detection)# 
+# CMSC423 (Bioinformatic Algorithms, Databases, and Tools) Project 1 (Variant Detection)
 
 The goal of this project was to build a read aligner with the purpose of discovering variants in the Coronavirus genome. 
 
